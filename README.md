@@ -45,6 +45,7 @@ The proposed system overcomes these limitations by leveraging Raspberry Pi's com
 ## Getting Started
 
 Follow these steps to set up FACEIDCAR on your vehicle. Make sure to check the [Wiki](wiki-link) for detailed instructions.
+#contact me [here](https://nishanthreddy.vercel.app/)
 
 ```bash
 # Clone the repository
@@ -55,4 +56,3 @@ cd FACEIDCAR
 
 # Run the setup script
 bash setup.sh
-#contact me [here](https://nishanthreddy.vercel.app/)
