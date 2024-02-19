@@ -49,7 +49,7 @@ Follow these steps to set up FACEIDCAR on your vehicle. Make sure to check the [
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/FACEIDCAR.git
+git clone https://github.com/nishanth9491/FACEIDCAR.git
 
 # Navigate to the project directory
 cd FACEIDCAR
